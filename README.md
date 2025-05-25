@@ -35,17 +35,18 @@ This repository contains SQL queries used for analyzing **World Bank** education
 - Google BigQuery access to the **World Bank International Education dataset**.
 - A basic understanding of SQL and BigQuery.
 
-### How to Run:
-1. Clone this repository.
-2. Open the SQL queries in the BigQuery console.
-3. Modify the queries (if needed) to reflect your desired analysis parameters or dates.
-
-## Contribution
-
-Feel free to contribute! Fork the repository, submit pull requests, and make sure to test your queries with up-to-date data from Google BigQuery.
-
----
-
 ## License
 
-This project is open source. Feel free to use and modify it.
+<a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/' target = "_blank">
+  <img src = "https://i.ibb.co/mvmWGkm/by-nc-sa.png" alt="by-nc-sa" border="0" width="88" height="31">
+</a>
+
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+
+<!-- External Links -->
+
+[website_link]: https://datalemur.com
+
+<!-- Profile Links -->
+
+[linkedin]: https://www.linkedin.com/in/natasha-lie-672491180
